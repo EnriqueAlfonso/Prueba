@@ -4,7 +4,7 @@
 
 *Editamos, el nombre de branch master/main.*
 
-*-b: BRANCH.*
+*-b: branch.*
 
 **"git push origin Fighter"**
 
