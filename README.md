@@ -23,6 +23,7 @@
 --- 
 
 ```C
+
 enriq@DESKTOP-KNMS6U5 MINGW64 /c/Digital House/Proyecto_Final/grupo-02 (main)
 $ git remote show origin
 * remote origin
@@ -35,4 +36,5 @@ $ git remote show origin
     main merges with remote main
   Local ref configured for 'git push':
     main pushes to main (up to date)
+    
 ```
