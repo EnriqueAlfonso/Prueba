@@ -22,7 +22,7 @@
 
 --- 
 
-```git
+```md
 enriq@DESKTOP-KNMS6U5 MINGW64 /c/Digital House/Proyecto_Final/grupo-02 (main)
 $ git remote show origin
 * remote origin
