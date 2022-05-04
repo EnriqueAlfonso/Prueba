@@ -21,3 +21,18 @@
 *Nuestro branch principal, se llama Fighter, subir los archivos con este nombre.*
 
 --- 
+
+```git
+enriq@DESKTOP-KNMS6U5 MINGW64 /c/Digital House/Proyecto_Final/grupo-02 (main)
+$ git remote show origin
+* remote origin
+  Fetch URL: https://github.com/0322CDFSNCN16LAED/grupo-02.git
+  Push  URL: https://github.com/0322CDFSNCN16LAED/grupo-02.git
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local branch configured for 'git pull':
+    main merges with remote main
+  Local ref configured for 'git push':
+    main pushes to main (up to date)
+```
