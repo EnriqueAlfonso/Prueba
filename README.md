@@ -3,6 +3,7 @@
 **"git init -b Fighter"**
 
 *Editamos, el nombre de branch master/main.*
+*-b: BRANCH.*
 
 **"git push origin Fighter"**
 
